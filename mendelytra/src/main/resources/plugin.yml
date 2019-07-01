@@ -1,5 +1,6 @@
 name: MendableElytra
 main: mendable.Plugin
-version: 0.1
+version: 0.0.2-SNAPSHOT
+api-version: 1.13
 author: SHC
 description: 疑似エリトラ修繕

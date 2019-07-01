@@ -26,7 +26,7 @@ public class Plugin extends JavaPlugin implements Listener{
 			ItemMeta meta = item.getItemMeta();
 			int damage = ((Damageable) meta).getDamage();
 
-			if(damage != 0) {
+			if(damage > 0) {
 				int mend = damage - event.getAmount();
 				((Damageable) meta).setDamage(mend);
 				item.setItemMeta(meta);

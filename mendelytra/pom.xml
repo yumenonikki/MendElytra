@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.yumenonikki</groupId>
   <artifactId>mendableElytra</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
  <build>
    <plugins>
      <plugin>
@@ -26,7 +26,7 @@
    <dependency>
      <groupId>org.spigotmc</groupId>
      <artifactId>spigot-api</artifactId>
-     <version>1.13.2-R0.1-SNAPSHOT</version>
+     <version>1.14.3-R0.1-SNAPSHOT</version>
    </dependency>
  </dependencies>
 </project>
