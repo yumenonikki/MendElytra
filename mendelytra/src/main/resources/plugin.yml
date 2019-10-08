@@ -1,6 +1,6 @@
-name: MendableElytra
+name: MendableItems
 main: mendable.Plugin
-version: 0.0.2-SNAPSHOT
-api-version: 1.13
+version: 0.0.1-SNAPSHOT
+api-version: 1.14
 author: SHC
-description: 疑似エリトラ修繕
+description: 指定するアイテムのみ修繕するプラグイン
