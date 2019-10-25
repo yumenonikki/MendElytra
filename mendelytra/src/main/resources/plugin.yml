@@ -1,6 +1,6 @@
 name: MendableItems
-main: mendable.Plugin
-version: 0.0.1-SNAPSHOT
+main: com.github.yumenonikki.mendable.Plugin
+version: 0.0.2-SNAPSHOT
 api-version: 1.14
 author: SHC
 description: 指定するアイテムのみ修繕するプラグイン
